@@ -1,0 +1,9 @@
+What is it ?
+============
+
+Keewee is just a simple and stupid project I had when travelling accross New
+Zealand. Cities over there have names either from a Maori origin (Oamaru,
+Whitianga, Tekapo) or sounds more English (New Plymouth, Wellington, Palmerston
+North).
+
+I wanted to see if I could come up with my own New Zealand generator name.
