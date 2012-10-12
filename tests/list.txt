@@ -62,8 +62,7 @@ Flaxmere
 Fox Glacier
 Foxton
 Foxton Beach
-Frankton, Otago
-Frankton, Waikato
+Frankton
 Franz Josef
 Geraldine
 Gisborne
@@ -125,6 +124,7 @@ Kaukapakapa
 Kauri
 Kawakawa
 Kawerau
+Kawhia
 Kennedy Bay
 Kerikeri
 Kihikihi
@@ -135,7 +135,6 @@ Koromiko
 Kumara
 Kumeu
 Kurow
-Kawhia
 Lawrence
 Leeston
 Leigh
@@ -148,8 +147,7 @@ Lower Hutt
 Lumsden
 Lyttelton
 Makahu
-Manaia, South Taranaki
-Manaia, Coromandel
+Manaia
 Manakau
 Mangakino
 Mangamuka
@@ -160,7 +158,6 @@ Manurewa
 Maraetai
 Marco
 Maromaku
-Marsden Bay
 Martinborough
 Marton
 Maruia
@@ -201,7 +198,6 @@ Naseby
 Nelson
 New Brighton
 New Plymouth
-Normanby
 Ngaere
 Ngamatapouri
 Ngapara
@@ -210,12 +206,13 @@ Ngataki
 Ngongotaha
 Ngunguru
 Norfolk
+Normanby
 North Shore City
 Oakura
 Oamaru
 Oban
-Ohakune
 Ohaeawai
+Ohakune
 Ohangai
 Ohoka
 Ohope Beach
@@ -274,14 +271,14 @@ Pirongia
 Pleasant Point
 Plimmerton
 Porirua
-Portland
 Poroti
 Port Chalmers
+Portland
 Portobello
 Pukekohe
+Pukepoto
 Pukerua Bay
 Pukeuri
-Pukepoto
 Purua
 Putaruru
 Queenstown
@@ -314,23 +311,23 @@ Runanga
 Russell
 Sanson
 Seddon
-Sheffield and Waddington
 Shannon
+Sheffield
+Silverdale
 Snells Beach
+Spring Creek
 Springfield
 Stratford
-Silverdale
-Spring Creek
 Taharoa
 Taihape
 Taipa-Mangonui
 Tairua
 Takaka
 Tangiteroria
-Tapanui
-Tapu
 Tangowahine
+Tapanui
 Tapora
+Tapu
 Taradale
 Tauhoa
 Taumarunui
@@ -350,10 +347,10 @@ Te Kopuru
 Te Kuiti
 Te Puke
 Te Puru
-Temuka
 Te Rerenga
+Temuka
 Thames
-Tikorangi&#8206;
+Tikorangi
 Timaru
 Tinopai
 Tinwald
@@ -373,15 +370,17 @@ Umawera
 Upper Hutt
 Urenui
 Uruti
-Waiheke Island
+Waddington
 Waharoa
 Waiharara
+Waiheke Island
 Waihi
 Waihi Beach
 Waihola
 Waikanae
-Waikawa, Marlborough
-Waikawa, Southland
+Waikawa
+Waikouaiti
+Waikuku
 Waima
 Waimangaroa
 Waimate
@@ -390,16 +389,14 @@ Waimauku
 Wainui
 Wainuiomata
 Waioneke
-Waiouru
 Waiotira
+Waiouru
 Waipawa
 Waipukurau
 Wairakei
 Wairau Valley
 Wairoa
 Waitahuna
-Waikouaiti
-Waikuku
 Waitakere
 Waitara
 Waitaria Bay
@@ -411,17 +408,17 @@ Waiuku
 Wakefield
 Wallacetown
 Walton
-Waverley
 Wanaka
 Wanganui
 Ward
 Wardville
 Warkworth
+Waverley
 Wellington
 Wellsford
 Westport
-Whakatane
 Whakamaru
+Whakatane
 Whananaki
 Whangamata
 Whangamomona
@@ -433,8 +430,8 @@ Whatuwhiwhi
 Whenuakite
 Whenuakura
 Whiritoa
-Whitford
 Whitby
+Whitford
 Whitianga
 Willowby
 Wimbledon
@@ -444,4 +441,3 @@ Woodend
 Woodhill
 Woodville
 Wyndham
-
