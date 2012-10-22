@@ -14,4 +14,10 @@ class KeeweeTests < Test::Unit::TestCase
 		assert_equal(true, repetition?('Matamata'))
 		assert_equal(false, repetition?('Eketahuna'))
 	end
+
+	def test_contains_d?
+		assert_equal(true, contains_d?('Coromandel Town'))
+		assert_equal(true, contains_d?('Dunedin'))
+		assert_equal(false, contains_d?('Katikati'))
+	end
 end

@@ -13,4 +13,8 @@ def repetition?(city)
 	return city[0,middle] == city[middle,4]
 end
 
-repetition?('Matamata')
+# Check if word contains a "d" letter
+def contains_d?(city)
+	return city.downcase.count('d') > 0
+end
+
