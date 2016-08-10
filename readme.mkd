@@ -1,9 +1,16 @@
-What is it ?
-============
+# KeeWee
 
-Keewee is just a simple and stupid project I had when travelling accross New
-Zealand. Cities over there have names either from a Maori origin (Oamaru,
-Whitianga, Tekapo) or sounds more English (New Plymouth, Wellington, Palmerston
+Keewee is a New Zealand city name generator. I spend a year in New Zealand and
+realized that there was a pattern to the name of the cities I visited. Most of
+the cities have Maori sounding named (Oamaru, Whitianga, Tekapo) while others
+clearly show their English background (New Plymouth, Wellington or Palmerston
 North).
 
-I wanted to see if I could come up with my own New Zealand generator name.
+This repo is an attempt to see if I can come up with my own generator.
+
+At first I wanted to manually code all the rules that could let me generate
+names. Things like Maori names don't have the letter `d`, or that they sometimes
+repeat parts (like `Katikati`).
+
+In the end I decided to try a fully automated way by building a tree of all the
+possible names and play a bit on statistics to see if I could generate new ones.
